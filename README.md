@@ -1,5 +1,4 @@
-# Detectify: 
-##High-Speed Fraudulent App Detection System 🛡️🔍
+# Detectify: High-Speed Fraudulent App Detection System 🛡️🔍
 
 **Detectify** is a high-performance, multi-layered security system designed to analyze Android application packages (`.apk`) and classify them as Safe, Fraudulent, or Unknown. It specializes in protecting users from malicious clones and tampered versions of major Indian banking and UPI applications using a rapid, self-learning analysis engine.
 
