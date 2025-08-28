@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About - Detectify</title>
+    <link rel="stylesheet" href="/static/about_style.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav>
+        <div class="nav-container">
+            <a href="{{ url_for('index') }}" class="logo">Detectify</a>
+            <!-- Removed About Us link -->
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main>
+        <!-- Hero Section -->
+        <section class="hero-section">
+            <h1 class="project-title">Fraudulent Banking/UPI App Detection</h1>
+            <p class="project-subtitle">Python Script-Based Fraudulent Banking & UPI App Detection System</p>
+        </section>
+
+        <!-- Project Details -->
+        <section class="project-details">
+            <h2>About Our Project</h2>
+            <p>
+                Detectify is a comprehensive cybersecurity solution designed to combat fraudulent banking and UPI applications using advanced Python scripting and reverse engineering techniques. Our detection system employs sophisticated Python algorithms combined with reverse engineering methodologies to analyze app signatures, code structures, and behavioral patterns. By leveraging official data from government institutions and Play Store repositories, Detectify provides real-time identification of malicious apps that attempt to deceive users and steal sensitive financial information.
+            </p>
+            <p>
+                Built with robust Python frameworks and comprehensive threat intelligence databases sourced from official government cybersecurity agencies, Detectify continuously analyzes emerging fraud patterns through script-based automation. Our system integrates data from multiple trusted sources including banking regulatory authorities, cybersecurity institutions, and official app store databases to create a multi-layered detection approach. The platform features powerful reverse engineering capabilities that dissect suspicious applications to identify fraudulent code patterns and malicious functionalities.
+            </p>
+            <p>
+                The mission behind Detectify extends beyond simple detection – we're creating a safer digital financial environment through evidence-based analysis and official data validation. Our research methodology combines systematic reverse engineering with official threat intelligence from government cybersecurity departments and financial regulatory bodies. From protecting individual users to securing entire banking ecosystems, Detectify serves as a critical defense mechanism powered by verified data sources and proven analytical techniques rather than machine learning predictions.
+            </p>
+        </section>
+
+        <!-- Team Section -->
+        <section class="team-section">
+            <h2 class="team-title">Meet Our Team</h2>
+            <div class="team-grid">
+                <!-- First Row - 2 Cards -->
+                <div class="team-row first-row">
+                    <div class="team-card" onclick="flipCard(this)">
+                        <div class="card-inner">
+                            <div class="card-front">
+                                <div class="team-avatar">
+                                    <img src="/static/Team/Shivansh.jpg" alt="Shivansh Ranjan">
+                                </div>
+                                <h3 class="team-name">Shivansh Ranjan</h3>
+                                <p class="team-role">Project Lead & Cybersecurity Analyst</p>
+                                
+                                <div class="flip-hint">Click to see social links</div>
+                            </div>
+                            <div class="card-back">
+                                <p class="team-description">
+                                <p class="social-info">
+                                    Project leader sharing insights on cybersecurity and threat analysis.
+                                </p>
+                                <h3 class="back-title">Connect with Shivansh</h3>
+                                <div class="social-links">
+                                    <a href="https://www.linkedin.com/in/shivansh-ranjan-13989031a" target="_blank">LinkedIn</a>
+                                    <a href="https://github.com/F1Khyber" target="_blank">Github</a>
+                                    <a href="https://www.instagram.com/_psychic_loner_" target="_blank">Instagram</a>
+                                    <a href="mailto:ranjanshivansh.work@gmail.com">Email</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="team-card" onclick="flipCard(this)">
+                        <div class="card-inner">
+                            <div class="card-front">
+                                <div class="team-avatar">
+                                    <img src="/static/Team/Gaurav.jpg" alt="Gaurav Deep">
+                                </div>
+                                <h3 class="team-name">Gaurav Deep</h3>
+                                <p class="team-role">Backend Developer & Reverse Engineer</p>
+
+                                <div class="flip-hint">Click to see social links</div>
+                            </div>
+                            <div class="card-back">
+                                <p class="social-info">
+                                    Backend developer sharing insights on reverse engineering and security analysis.
+                                </p>
+                                <h3 class="back-title">Connect with Gaurav</h3>
+                                <div class="social-links">
+                                    <a href="https://www.linkedin.com/in/gauravdeep25/" target="_blank">LinkedIn</a>
+                                    <a href="https://github.com/GauravDeep25" target="_blank">Github</a>
+                                    <a href="https://instagram.com/gaurav.d.jpg" target="_blank">Instagram</a>
+                                    <a href="mailto:gauravdeepgd12007@gmail.com">Email</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Second Row - 3 Cards -->
+                <div class="team-row second-row">
+                    <div class="team-card" onclick="flipCard(this)">
+                        <div class="card-inner">
+                            <div class="card-front">
+                                <div class="team-avatar">
+                                    <img src="/static/Team/Kaushik.jpeg" alt="Kaushik Kr Barman">
+                                </div>
+                                <h3 class="team-name">Kaushik Kr Barman</h3>
+                                <p class="team-role">Backend Developer & Cybersecurity Analyst</p>
+                                
+                                <div class="flip-hint">Click to see social links</div>
+                            </div>
+                            <div class="card-back">
+                                <p class="team-description">
+                                <p class="social-info">
+                                    Backend specialist focused on deployment strategies and scalable web solutions.
+                                </p>
+
+                                <h3 class="back-title">Connect with Kaushik</h3>
+                                <div class="social-links">
+                                    <a href="https://www.linkedin.com/in/kaushikbarman01/" target="_blank">LinkedIn</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="team-card" onclick="flipCard(this)">
+                        <div class="card-inner">
+                            <div class="card-front">
+                                <div class="team-avatar">
+                                    <img src="/static/Team/Yukti.jpeg" alt="Singh Yukti">
+                                </div>
+                                <h3 class="team-name">Singh Yukti</h3>
+                                <p class="team-role">Frontend Developer & UI/UX Designer</p>
+                                
+                                <div class="flip-hint">Click to see social links</div>
+                            </div>
+                            <div class="card-back">
+                                <p class="team-description">
+                                
+                                <p class="social-info">
+                                    
+                                    UI/UX designer passionate about creating user-friendly security interfaces.
+                                </p>
+
+                                <h3 class="back-title">Connect with Yukti</h3>
+                                <div class="social-links">
+                                    <a href="https://www.linkedin.com/in/yukti-singh-575663380" target="_blank">LinkedIn</a>
+                                    <a href="https://www.instagram.com/yukti9693?igsh=MTR3NXczMWxydHpjbQ==" target="_blank">Instagram</a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="team-card" onclick="flipCard(this)">
+                        <div class="card-inner">
+                            <div class="card-front">
+                                <div class="team-avatar">
+                                    <img src="/static/Team/Himanshu.jpeg" alt="Himanshu Kumar">
+                                </div>
+                                <h3 class="team-name">Himanshu Kumar</h3>
+                                <p class="team-role">Frontend Developer & UI/UX Designer</p>
+                                
+                                <div class="flip-hint">Click to see social links</div>
+                            </div>
+                            <div class="card-back">
+                                <p class="social-info">
+                                    Frontend developer passionate about creating beautiful user interfaces.
+                                </p>
+
+                                <h3 class="back-title">Connect with Himanshu</h3>
+                                <div class="social-links">
+                                    <a href="https://www.linkedin.com/in/himanshu-kumar-118a1631a" target="_blank">LinkedIn</a>
+                                    <a href="https://www.instagram.com/himmanshukumar70/" target="_blank">Instagram</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-content">
+            <p class="footer-text">
+                © 2025 Detectify. All rights reserved.
+            </p>
+        </div>
+    </footer>
+
+    <script>
+        function flipCard(card) {
+            card.classList.toggle('flipped');
+        }
+    </script>
+    <script src="/static/nav-scroll.js"></script>
+</body>
+</html>

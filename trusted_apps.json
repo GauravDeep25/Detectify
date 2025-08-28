@@ -1,0 +1,2565 @@
+{
+  "banks": [
+    {
+      "bank": "Bank of Baroda",
+      "packages": [
+        {
+          "id": "com.bankofbaroda.mconnect",
+          "cert_sha256": [
+            "86734f0ce04de5bce31b1978b5dac7f938feecdfe01908f5a1ae3cdcceb43003"
+          ],
+          "cert_public_key_sha256": "86734f0ce04de5bce31b1978b5dac7f938feecdfe01908f5a1ae3cdcceb43003",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_SMS"
+          ],
+          "allowed_domains": [
+            "bankofbaroda.in"
+          ]
+        },
+        {
+          "id": "com.bob.bobworld",
+          "cert_sha256": [
+            "1f089e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5c"
+          ],
+          "cert_public_key_sha256": "1f089e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5c",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_CONTACTS"
+          ],
+          "allowed_domains": [
+            "bankofbaroda.in"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Bank of India",
+      "packages": [
+        {
+          "id": "com.boi.ua.android",
+          "cert_sha256": [
+            "2f089e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5d"
+          ],
+          "cert_public_key_sha256": "2f089e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5d",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_SMS",
+            "android.permission.READ_PHONE_STATE"
+          ],
+          "allowed_domains": [
+            "bankofindia.co.in"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Bank of Maharashtra",
+      "packages": [
+        {
+          "id": "com.kiya.mahaplus",
+          "cert_sha256": [
+            "3f089e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5e"
+          ],
+          "cert_public_key_sha256": "3f089e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5e",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS"
+          ],
+          "allowed_domains": [
+            "bankofmaharashtra.in"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Canara Bank",
+      "packages": [
+        {
+          "id": "com.canarabank.mobility",
+          "cert_sha256": [
+            "4f089e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5f"
+          ],
+          "cert_public_key_sha256": "4f089e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5f",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.SEND_SMS",
+            "android.permission.CAMERA",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.VIBRATE",
+            "android.permission.CALL_PHONE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.READ_PHONE_STATE"
+          ],
+          "allowed_domains": [
+            "canarabank.com"
+          ]
+        },
+        {
+          "id": "com.syndicate.app",
+          "cert_sha256": [
+            "5f089e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a50"
+          ],
+          "cert_public_key_sha256": "5f089e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a50",
+          "official_permissions": [
+            "android.permission.INTERNET"
+          ],
+          "allowed_domains": []
+        }
+      ]
+    },
+    {
+      "bank": "Central Bank of India",
+      "packages": [
+        {
+          "id": "com.infrasofttech.CentralBank",
+          "cert_sha256": [
+            "6f089e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a51"
+          ],
+          "cert_public_key_sha256": "6f089e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a51",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_SMS",
+            "android.permission.READ_PHONE_STATE"
+          ],
+          "allowed_domains": [
+            "centralbankofindia.co.in"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Indian Bank",
+      "packages": [
+        {
+          "id": "com.iexceed.ib.digitalbankingprod",
+          "cert_sha256": [
+            "7f089e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a52"
+          ],
+          "cert_public_key_sha256": "7f089e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a52",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS"
+          ],
+          "allowed_domains": [
+            "indianbank.in"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Indian Overseas Bank",
+      "packages": [
+        {
+          "id": "com.iob.mobile",
+          "cert_sha256": [
+            "8f089e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a53"
+          ],
+          "cert_public_key_sha256": "8f089e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a53",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_PHONE_STATE"
+          ],
+          "allowed_domains": [
+            "iob.in"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Punjab National Bank",
+      "packages": [
+        {
+          "id": "com.pnb.one",
+          "cert_sha256": [
+            "9f089e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a54"
+          ],
+          "cert_public_key_sha256": "9f089e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a54",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_PHONE_STATE"
+          ],
+          "allowed_domains": [
+            "pnbindia.in",
+            "pnbnet.net"
+          ]
+        },
+        {
+          "id": "com.pnb.pnbonline",
+          "cert_sha256": [
+            "9f089e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a55"
+          ],
+          "cert_public_key_sha256": "9f089e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a55",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS"
+          ],
+          "allowed_domains": [
+            "pnbindia.in"
+          ]
+        },
+        {
+          "id": "com.obc.app",
+          "cert_sha256": [
+            "9f089e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a56"
+          ],
+          "cert_public_key_sha256": "9f089e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a56",
+          "official_permissions": [
+            "android.permission.INTERNET"
+          ],
+          "allowed_domains": []
+        }
+      ]
+    },
+    {
+      "bank": "Punjab & Sind Bank",
+      "packages": [
+        {
+          "id": "com.psb.mobile",
+          "cert_sha256": [
+            "af089e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a57"
+          ],
+          "cert_public_key_sha256": "af089e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a57",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS"
+          ],
+          "allowed_domains": [
+            "pnbindia.in"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "State Bank of India",
+      "packages": [
+        {
+          "id": "com.sbi.yono",
+          "cert_sha256": [
+            "d8a23e4b7c6c4f3d1e2a8b9f1d0a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f2a"
+          ],
+          "cert_public_key_sha256": "d8a23e4b7c6c4f3d1e2a8b9f1d0a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f2a",
+          "official_permissions": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.INTERNET",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.CAMERA",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.CALL_PHONE",
+            "android.permission.ACCESS_FINE_LOCATION"
+          ],
+          "allowed_domains": [
+            "onlinesbi.sbi",
+            "sbi.co.in",
+            "yono.sbi"
+          ]
+        },
+        {
+          "id": "com.sbi.lotusintouch",
+          "cert_sha256": [
+            "435776891f2ca214e3ed167c42f60e47d96fa49e0c9ea76dbd9936fa54f15f42"
+          ],
+          "cert_public_key_sha256": "435776891f2ca214e3ed167c42f60e47d96fa49e0c9ea76dbd9936fa54f15f42",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_SMS",
+            "android.permission.SEND_SMS",
+            "android.permission.CAMERA",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.VIBRATE",
+            "android.permission.CALL_PHONE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.GET_ACCOUNTS"
+          ],
+          "allowed_domains": [
+            "onlinesbi.sbi",
+            "sbi.co.in"
+          ]
+        },
+        {
+          "id": "com.sbi.SBIFreedomPlus",
+          "cert_sha256": [
+            "d8a23e4b7c6c4f3d1e2a8b9f1d0a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f2c"
+          ],
+          "cert_public_key_sha256": "d8a23e4b7c6c4f3d1e2a8b9f1d0a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f2c",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS"
+          ],
+          "allowed_domains": [
+            "onlinesbi.sbi",
+            "sbi.co.in"
+          ]
+        },
+        {
+          "id": "com.andhrabank.app",
+          "cert_sha256": [
+            "e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f6"
+          ],
+          "cert_public_key_sha256": "e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f6",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS"
+          ],
+          "allowed_domains": [
+            "andhrabank.in"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "UCO Bank",
+      "packages": [
+        {
+          "id": "com.lcode.ucomobilebanking",
+          "cert_sha256": [
+            "af089e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a58"
+          ],
+          "cert_public_key_sha256": "af089e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a58",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS"
+          ],
+          "allowed_domains": [
+            "ucobank.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Union Bank of India",
+      "packages": [
+        {
+          "id": "com.infrasoft.uboi",
+          "cert_sha256": [
+            "bf089e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a59"
+          ],
+          "cert_public_key_sha256": "bf089e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a59",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_PHONE_STATE"
+          ],
+          "allowed_domains": [
+            "unionbankonline.co.in",
+            "unionbankofindia.co.in"
+          ]
+        },
+        {
+          "id": "com.unionbank.mobile",
+          "cert_sha256": [
+            "cf089e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5a"
+          ],
+          "cert_public_key_sha256": "cf089e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5a",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_PHONE_STATE"
+          ],
+          "allowed_domains": [
+            "unionbankofindia.co.in"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Axis Bank Ltd.",
+      "packages": [
+        {
+          "id": "com.axis.mobile",
+          "cert_sha256": [
+            "ea40b45b42db0453b93390f21f45a442ceac10bf55d7bc124cdc3b045b7a5cfe"
+          ],
+          "cert_public_key_sha256": "ea40b45b42db0453b93390f21f45a442ceac10bf55d7bc124cdc3b045b7a5cfe",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.CAMERA",
+            "android.permission.READ_CONTACTS"
+          ],
+          "allowed_domains": [
+            "axisbank.com"
+          ]
+        },
+        {
+          "id": "com.axis.pay",
+          "cert_sha256": [
+            "ef089e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5c"
+          ],
+          "cert_public_key_sha256": "ef089e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5c",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.READ_CONTACTS",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.RECEIVE_SMS"
+          ],
+          "allowed_domains": [
+            "axisbank.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Bandhan Bank Ltd.",
+      "packages": [
+        {
+          "id": "com.bandhanbank.mobileapp",
+          "cert_sha256": [
+            "ff089e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5d"
+          ],
+          "cert_public_key_sha256": "ff089e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5d",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS"
+          ],
+          "allowed_domains": [
+            "bandhanbank.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "CSB Bank Ltd.",
+      "packages": [
+        {
+          "id": "com.csb.mobile",
+          "cert_sha256": [
+            "00189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5e"
+          ],
+          "cert_public_key_sha256": "00189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5e",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_SMS",
+            "android.permission.READ_PHONE_STATE"
+          ],
+          "allowed_domains": [
+            "csb.co.in"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "City Union Bank Ltd.",
+      "packages": [
+        {
+          "id": "com.infofine.cub",
+          "cert_sha256": [
+            "10189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5f"
+          ],
+          "cert_public_key_sha256": "10189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5f",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_PHONE_STATE"
+          ],
+          "allowed_domains": [
+            "cityunionbank.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "DCB Bank Ltd.",
+      "packages": [
+        {
+          "id": "com.dcb.mobilebanking",
+          "cert_sha256": [
+            "20189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a60"
+          ],
+          "cert_public_key_sha256": "20189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a60",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_PHONE_STATE"
+          ],
+          "allowed_domains": [
+            "dcbbank.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Dhanlaxmi Bank Ltd.",
+      "packages": [
+        {
+          "id": "com.dhanlaxmi.app",
+          "cert_sha256": [
+            "30189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a61"
+          ],
+          "cert_public_key_sha256": "30189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a61",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS"
+          ],
+          "allowed_domains": [
+            "dhanbank.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Federal Bank Ltd.",
+      "packages": [
+        {
+          "id": "com.fedmobile",
+          "cert_sha256": [
+            "40189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a62"
+          ],
+          "cert_public_key_sha256": "40189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a62",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS"
+          ],
+          "allowed_domains": [
+            "federalbank.co.in"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "HDFC Bank Ltd.",
+      "packages": [
+        {
+          "id": "com.snapwork.hdfc",
+          "cert_sha256": [
+            "50189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a63"
+          ],
+          "cert_public_key_sha256": "50189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a63",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.ACCESS_FINE_LOCATION"
+          ],
+          "allowed_domains": [
+            "hdfcbank.com",
+            "smarthub.hdfcbank.com"
+          ]
+        },
+        {
+          "id": "com.hdfcbank.android.now",
+          "cert_sha256": [
+            "60189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a64"
+          ],
+          "cert_public_key_sha256": "60189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a64",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_PHONE_STATE"
+          ],
+          "allowed_domains": [
+            "hdfcbank.com"
+          ]
+        },
+        {
+          "id": "com.hdfcbank.payzapp",
+          "cert_sha256": [
+            "EXTRACT_AND_PASTE_REAL_PUBLIC_KEY_SHA256_HASH_HERE"
+          ],
+          "cert_public_key_sha256": "EXTRACT_AND_PASTE_REAL_PUBLIC_KEY_SHA256_HASH_HERE",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.CAMERA"
+          ],
+          "allowed_domains": [
+            "hdfcbank.com",
+            "payzapp.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "ICICI Bank Ltd.",
+      "packages": [
+        {
+          "id": "com.csam.icici.bank.imobile",
+          "cert_sha256": [
+            "70189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a65"
+          ],
+          "cert_public_key_sha256": "70189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a65",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.CAMERA",
+            "android.permission.VIBRATE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.USE_BIOMETRIC",
+            "android.permission.CALL_PHONE"
+          ],
+          "allowed_domains": [
+            "icicibank.com",
+            "imobile.icicibank.com"
+          ]
+        },
+        {
+          "id": "com.icicibank.pockets",
+          "cert_sha256": [
+            "80189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a66"
+          ],
+          "cert_public_key_sha256": "80189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a66",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_PHONE_STATE"
+          ],
+          "allowed_domains": [
+            "icicibank.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "IDBI Bank Ltd.",
+      "packages": [
+        {
+          "id": "com.snapwork.IDBI",
+          "cert_sha256": [
+            "90189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a67"
+          ],
+          "cert_public_key_sha256": "90189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a67",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_PHONE_STATE"
+          ],
+          "allowed_domains": [
+            "idbibank.in"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "IDFC FIRST Bank Ltd.",
+      "packages": [
+        {
+          "id": "com.idfcfirstbank.optimus",
+          "cert_sha256": [
+            "a0189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a68"
+          ],
+          "cert_public_key_sha256": "a0189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a68",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_PHONE_STATE"
+          ],
+          "allowed_domains": [
+            "idfcfirstbank.com"
+          ]
+        },
+        {
+          "id": "com.idfc.mobilebanking",
+          "cert_sha256": [
+            "b0189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a69"
+          ],
+          "cert_public_key_sha256": "b0189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a69",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_PHONE_STATE"
+          ],
+          "allowed_domains": [
+            "idfcfirstbank.com",
+            "idfc.in"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "IndusInd Bank Ltd.",
+      "packages": [
+        {
+          "id": "com.fss.indus",
+          "cert_sha256": [
+            "c0189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a70"
+          ],
+          "cert_public_key_sha256": "c0189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a70",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_CONTACTS"
+          ],
+          "allowed_domains": [
+            "indusind.com"
+          ]
+        },
+        {
+          "id": "com.indusind.indie",
+          "cert_sha256": [
+            "d0189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a71"
+          ],
+          "cert_public_key_sha256": "d0189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a71",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_CONTACTS",
+            "android.permission.READ_PHONE_STATE"
+          ],
+          "allowed_domains": [
+            "indusind.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Jammu & Kashmir Bank Ltd.",
+      "packages": [
+        {
+          "id": "com.jkb.mobilebanking",
+          "cert_sha256": [
+            "e0189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a72"
+          ],
+          "cert_public_key_sha256": "e0189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a72",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.ACCESS_FINE_LOCATION"
+          ],
+          "allowed_domains": [
+            "jkbose.in",
+            "jkb.co.in"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Karnataka Bank Ltd.",
+      "packages": [
+        {
+          "id": "com.karnatakabank.mobile",
+          "cert_sha256": [
+            "f0189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a73"
+          ],
+          "cert_public_key_sha256": "f0189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a73",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_PHONE_STATE"
+          ],
+          "allowed_domains": [
+            "karnatakabank.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Karur Vysya Bank Ltd.",
+      "packages": [
+        {
+          "id": "com.kvb.mconnect",
+          "cert_sha256": [
+            "01189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a74"
+          ],
+          "cert_public_key_sha256": "01189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a74",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_SMS",
+            "android.permission.READ_PHONE_STATE"
+          ],
+          "allowed_domains": [
+            "kvb.co.in"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Kotak Mahindra Bank Ltd.",
+      "packages": [
+        {
+          "id": "com.kotak.mobile",
+          "cert_sha256": [
+            "11189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a75"
+          ],
+          "cert_public_key_sha256": "11189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a75",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_CONTACTS",
+            "android.permission.CAMERA",
+            "android.permission.ACCESS_FINE_LOCATION"
+          ],
+          "allowed_domains": [
+            "kotak.com"
+          ]
+        },
+        {
+          "id": "com.kotak.811",
+          "cert_sha256": [
+            "21189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a76"
+          ],
+          "cert_public_key_sha256": "21189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a76",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.CAMERA",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_CONTACTS"
+          ],
+          "allowed_domains": [
+            "kotak.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Nainital Bank Ltd.",
+      "packages": [
+        {
+          "id": "com.nainitalbank.mobile",
+          "cert_sha256": [
+            "31189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a77"
+          ],
+          "cert_public_key_sha256": "31189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a77",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS"
+          ],
+          "allowed_domains": [
+            "nainitalbank.co.in"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "RBL Bank Ltd.",
+      "packages": [
+        {
+          "id": "com.rblbank.mobank",
+          "cert_sha256": [
+            "41189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a78"
+          ],
+          "cert_public_key_sha256": "41189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a78",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_PHONE_STATE"
+          ],
+          "allowed_domains": [
+            "rblbank.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "South Indian Bank Ltd.",
+      "packages": [
+        {
+          "id": "com.southindianbank.mobilebanking",
+          "cert_sha256": [
+            "51189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a79"
+          ],
+          "cert_public_key_sha256": "51189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a79",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_PHONE_STATE"
+          ],
+          "allowed_domains": [
+            "southindianbank.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Tamilnad Mercantile Bank Ltd.",
+      "packages": [
+        {
+          "id": "com.tmbnet.app",
+          "cert_sha256": [
+            "61189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a80"
+          ],
+          "cert_public_key_sha256": "61189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a80",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_PHONE_STATE"
+          ],
+          "allowed_domains": [
+            "tmbnet.in"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "YES Bank Ltd.",
+      "packages": [
+        {
+          "id": "in.irisbyyes.app",
+          "cert_sha256": [
+            "71189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a81"
+          ],
+          "cert_public_key_sha256": "71189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a81",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.USE_BIOMETRIC",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.ACCESS_FINE_LOCATION"
+          ],
+          "allowed_domains": [
+            "yesbank.in"
+          ]
+        },
+        {
+          "id": "com.yesbank.mobile",
+          "cert_sha256": [
+            "81189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a82"
+          ],
+          "cert_public_key_sha256": "81189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a82",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_CONTACTS"
+          ],
+          "allowed_domains": [
+            "yesbank.in"
+          ]
+        },
+        {
+          "id": "com.yesbank.iris",
+          "cert_sha256": [
+            "91189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a83"
+          ],
+          "cert_public_key_sha256": "91189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a83",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_CONTACTS"
+          ],
+          "allowed_domains": [
+            "yesbank.in"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "AB Bank PLC",
+      "packages": [
+        {
+          "id": "com.abbank.mobile",
+          "cert_sha256": [
+            "a1189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a84"
+          ],
+          "cert_public_key_sha256": "a1189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a84",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS"
+          ],
+          "allowed_domains": [
+            "abbank.com.bd"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "American Express Banking Corp.",
+      "packages": [
+        {
+          "id": "com.americanexpress.mobile.android.in",
+          "cert_sha256": [
+            "b1189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a85"
+          ],
+          "cert_public_key_sha256": "b1189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a85",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_FINE_LOCATION"
+          ],
+          "allowed_domains": [
+            "americanexpress.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Australia and New Zealand Banking Group Ltd.",
+      "packages": [
+        {
+          "id": "com.anz.anzbanking",
+          "cert_sha256": [
+            "c1189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a86"
+          ],
+          "cert_public_key_sha256": "c1189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a86",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+          ],
+          "allowed_domains": [
+            "anz.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Barclays Bank Plc",
+      "packages": [
+        {
+          "id": "com.barclays.mobilebanking",
+          "cert_sha256": [
+            "d1189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a87"
+          ],
+          "cert_public_key_sha256": "d1189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a87",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_CONTACTS"
+          ],
+          "allowed_domains": [
+            "barclays.in"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Bank of America, N.A.",
+      "packages": [
+        {
+          "id": "com.bankofamerica.mobile.android",
+          "cert_sha256": [
+            "e1189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a88"
+          ],
+          "cert_public_key_sha256": "e1189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a88",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_FINE_LOCATION"
+          ],
+          "allowed_domains": [
+            "bankofamerica.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Bank of Bahrain & Kuwait B.S.C.",
+      "packages": [
+        {
+          "id": "com.bbkindia.mobile",
+          "cert_sha256": [
+            "f1189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a89"
+          ],
+          "cert_public_key_sha256": "f1189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a89",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_SMS"
+          ],
+          "allowed_domains": [
+            "bbkindia.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Bank of Ceylon",
+      "packages": [
+        {
+          "id": "com.boc.mobile",
+          "cert_sha256": [
+            "02189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a90"
+          ],
+          "cert_public_key_sha256": "02189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a90",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_PHONE_STATE"
+          ],
+          "allowed_domains": [
+            "boc.lk"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Bank of China",
+      "packages": [
+        {
+          "id": "com.boc.bocmobile",
+          "cert_sha256": [
+            "12189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a91"
+          ],
+          "cert_public_key_sha256": "12189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a91",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+          ],
+          "allowed_domains": [
+            "bankofchina.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Bank of Nova Scotia",
+      "packages": [
+        {
+          "id": "com.scotiabank.mobile.android",
+          "cert_sha256": [
+            "22189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a92"
+          ],
+          "cert_public_key_sha256": "22189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a92",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+          ],
+          "allowed_domains": [
+            "scotiabank.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "BNP Paribas",
+      "packages": [
+        {
+          "id": "com.bnpparibas.mobile",
+          "cert_sha256": [
+            "32189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a93"
+          ],
+          "cert_public_key_sha256": "32189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a93",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_SMS"
+          ],
+          "allowed_domains": [
+            "bnpparibas.co.in"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Citibank N.A.",
+      "packages": [
+        {
+          "id": "com.citibank.mobile.in",
+          "cert_sha256": [
+            "42189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a94"
+          ],
+          "cert_public_key_sha256": "42189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a94",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_CONTACTS",
+            "android.permission.READ_PHONE_STATE"
+          ],
+          "allowed_domains": [
+            "citibank.co.in"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Cooperatieve Rabobank U.A.",
+      "packages": [
+        {
+          "id": "com.rabobank.mobile",
+          "cert_sha256": [
+            "52189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a95"
+          ],
+          "cert_public_key_sha256": "52189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a95",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+          ],
+          "allowed_domains": [
+            "rabobank.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Credit Agricole Corporate & Investment Bank",
+      "packages": [
+        {
+          "id": "com.creditagricole.mobile",
+          "cert_sha256": [
+            "62189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a96"
+          ],
+          "cert_public_key_sha256": "62189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a96",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+          ],
+          "allowed_domains": [
+            "ca-cib.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Credit Suisse A.G.",
+      "packages": [
+        {
+          "id": "com.creditsuisse.mobile",
+          "cert_sha256": [
+            "72189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a97"
+          ],
+          "cert_public_key_sha256": "72189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a97",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+          ],
+          "allowed_domains": [
+            "creditsuisse.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "CTBC Bank Co., Ltd.",
+      "packages": [
+        {
+          "id": "com.ctbcbank.mobile",
+          "cert_sha256": [
+            "82189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a98"
+          ],
+          "cert_public_key_sha256": "82189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a98",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+          ],
+          "allowed_domains": [
+            "ctbcbank.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "DBS Bank India Ltd.",
+      "packages": [
+        {
+          "id": "com.dbs.in.digibank",
+          "cert_sha256": [
+            "92189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a99"
+          ],
+          "cert_public_key_sha256": "92189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a99",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_CONTACTS"
+          ],
+          "allowed_domains": [
+            "dbs.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Deutsche Bank A.G.",
+      "packages": [
+        {
+          "id": "com.db.indiabank",
+          "cert_sha256": [
+            "a2189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a90"
+          ],
+          "cert_public_key_sha256": "a2189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a90",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+          ],
+          "allowed_domains": [
+            "db.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Doha Bank Q.P.S.C.",
+      "packages": [
+        {
+          "id": "com.dohabank.mobile",
+          "cert_sha256": [
+            "b2189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a91"
+          ],
+          "cert_public_key_sha256": "b2189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a91",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+          ],
+          "allowed_domains": [
+            "dohabank.com.qa"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Emirates NBD Bank (P.J.S.C)",
+      "packages": [
+        {
+          "id": "com.emiratesnbd.mobile",
+          "cert_sha256": [
+            "c2189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a92"
+          ],
+          "cert_public_key_sha256": "c2189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a92",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS"
+          ],
+          "allowed_domains": [
+            "emiratesnbd.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "First Abu Dhabi Bank PJSC",
+      "packages": [
+        {
+          "id": "com.fab.mobilebanking",
+          "cert_sha256": [
+            "d2189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a93"
+          ],
+          "cert_public_key_sha256": "d2189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a93",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS"
+          ],
+          "allowed_domains": [
+            "bankfab.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "FirstRand Bank Ltd.",
+      "packages": [
+        {
+          "id": "com.fnb.mobile",
+          "cert_sha256": [
+            "e2189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a94"
+          ],
+          "cert_public_key_sha256": "e2189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a94",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+          ],
+          "allowed_domains": [
+            "fnb.co.za"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "HSBC Ltd.",
+      "packages": [
+        {
+          "id": "com.hsbc.hsbcmobilebanking",
+          "cert_sha256": [
+            "f2189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a95"
+          ],
+          "cert_public_key_sha256": "f2189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a95",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS"
+          ],
+          "allowed_domains": [
+            "hsbc.co.in"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Industrial & Commercial Bank of China Ltd.",
+      "packages": [
+        {
+          "id": "com.icbc.mobile",
+          "cert_sha256": [
+            "03189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a96"
+          ],
+          "cert_public_key_sha256": "03189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a96",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+          ],
+          "allowed_domains": [
+            "icbc.com.cn"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Industrial Bank of Korea",
+      "packages": [
+        {
+          "id": "com.ibk.mobile",
+          "cert_sha256": [
+            "13189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a97"
+          ],
+          "cert_public_key_sha256": "13189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a97",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+          ],
+          "allowed_domains": [
+            "ibk.co.kr"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "J.P. Morgan Chase Bank, N.A.",
+      "packages": [
+        {
+          "id": "com.jpmorgan.mobile",
+          "cert_sha256": [
+            "23189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a98"
+          ],
+          "cert_public_key_sha256": "23189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a98",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_PHONE_STATE"
+          ],
+          "allowed_domains": [
+            "jpmorgan.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "JSC VTB Bank",
+      "packages": [
+        {
+          "id": "com.vtb.mobile",
+          "cert_sha256": [
+            "33189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a99"
+          ],
+          "cert_public_key_sha256": "33189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a99",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+          ],
+          "allowed_domains": [
+            "vtb.ru"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "KEB Hana Bank",
+      "packages": [
+        {
+          "id": "com.hanabank.mobile",
+          "cert_sha256": [
+            "43189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a00"
+          ],
+          "cert_public_key_sha256": "43189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a00",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+          ],
+          "allowed_domains": [
+            "hanabank.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Kookmin Bank",
+      "packages": [
+        {
+          "id": "com.kbstar.mobile",
+          "cert_sha256": [
+            "53189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a01"
+          ],
+          "cert_public_key_sha256": "53189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a01",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+          ],
+          "allowed_domains": [
+            "kbstar.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Krung Thai Bank Public Co. Ltd.",
+      "packages": [
+        {
+          "id": "com.ktb.mobile",
+          "cert_sha256": [
+            "63189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a02"
+          ],
+          "cert_public_key_sha256": "63189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a02",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+          ],
+          "allowed_domains": [
+            "krungthai.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Mashreq Bank PSC",
+      "packages": [
+        {
+          "id": "com.mashreq.mobile",
+          "cert_sha256": [
+            "73189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a03"
+          ],
+          "cert_public_key_sha256": "73189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a03",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+          ],
+          "allowed_domains": [
+            "mashreqbank.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Mizuho Bank, Ltd.",
+      "packages": [
+        {
+          "id": "com.mizuho.mobile",
+          "cert_sha256": [
+            "83189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a04"
+          ],
+          "cert_public_key_sha256": "83189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a04",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+          ],
+          "allowed_domains": [
+            "mizuhobank.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "MUFG Bank, Ltd.",
+      "packages": [
+        {
+          "id": "com.mufg.mobile",
+          "cert_sha256": [
+            "93189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a05"
+          ],
+          "cert_public_key_sha256": "93189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a05",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+          ],
+          "allowed_domains": [
+            "mufg.jp"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "National Australia Bank",
+      "packages": [
+        {
+          "id": "com.nab.mobile",
+          "cert_sha256": [
+            "a3189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a06"
+          ],
+          "cert_public_key_sha256": "a3189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a06",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+          ],
+          "allowed_domains": [
+            "nab.com.au"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "NatWest Markets Plc",
+      "packages": [
+        {
+          "id": "com.natwest.mobile",
+          "cert_sha256": [
+            "b3189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a07"
+          ],
+          "cert_public_key_sha256": "b3189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a07",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+          ],
+          "allowed_domains": [
+            "natwest.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "PT Bank Maybank Indonesia TBK",
+      "packages": [
+        {
+          "id": "com.maybank.mobile",
+          "cert_sha256": [
+            "c3189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a08"
+          ],
+          "cert_public_key_sha256": "c3189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a08",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+          ],
+          "allowed_domains": [
+            "maybank.co.id"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Qatar National Bank (Q.P.S.C.)",
+      "packages": [
+        {
+          "id": "com.qnb.mobile",
+          "cert_sha256": [
+            "d3189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a09"
+          ],
+          "cert_public_key_sha256": "d3189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a09",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+          ],
+          "allowed_domains": [
+            "qnb.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Sberbank",
+      "packages": [
+        {
+          "id": "com.sberbank.mobile",
+          "cert_sha256": [
+            "e3189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a10"
+          ],
+          "cert_public_key_sha256": "e3189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a10",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+          ],
+          "allowed_domains": [
+            "sberbank.ru"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "SBM Bank (India) Ltd.",
+      "packages": [
+        {
+          "id": "com.sbm.mobile",
+          "cert_sha256": [
+            "f3189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a11"
+          ],
+          "cert_public_key_sha256": "f3189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a11",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+          ],
+          "allowed_domains": [
+            "sbm.co.in"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Shinhan Bank",
+      "packages": [
+        {
+          "id": "com.shinhan.mobile",
+          "cert_sha256": [
+            "04189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a12"
+          ],
+          "cert_public_key_sha256": "04189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a12",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+          ],
+          "allowed_domains": [
+            "shinhan.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Societe Generale",
+      "packages": [
+        {
+          "id": "com.socgen.mobile",
+          "cert_sha256": [
+            "14189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a13"
+          ],
+          "cert_public_key_sha256": "14189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a13",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+          ],
+          "allowed_domains": [
+            "societegenerale.co.in"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Sonali Bank Ltd.",
+      "packages": [
+        {
+          "id": "com.sonali.mobile",
+          "cert_sha256": [
+            "24189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a14"
+          ],
+          "cert_public_key_sha256": "24189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a14",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+          ],
+          "allowed_domains": [
+            "sonalibank.com.bd"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Standard Chartered Bank",
+      "packages": [
+        {
+          "id": "com.sc.scmobile",
+          "cert_sha256": [
+            "34189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a15"
+          ],
+          "cert_public_key_sha256": "34189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a15",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+          ],
+          "allowed_domains": [
+            "sc.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Sumitomo Mitsui Banking Corporation",
+      "packages": [
+        {
+          "id": "com.smbc.mobile",
+          "cert_sha256": [
+            "44189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a16"
+          ],
+          "cert_public_key_sha256": "44189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a16",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+          ],
+          "allowed_domains": [
+            "smbc.co.jp"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "The Royal Bank of Scotland plc",
+      "packages": [
+        {
+          "id": "com.rbs.mobile",
+          "cert_sha256": [
+            "54189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a17"
+          ],
+          "cert_public_key_sha256": "54189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a17",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+          ],
+          "allowed_domains": [
+            "rbs.co.uk"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "UBS AG",
+      "packages": [
+        {
+          "id": "com.ubs.mobile",
+          "cert_sha256": [
+            "64189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a18"
+          ],
+          "cert_public_key_sha256": "64189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a18",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+          ],
+          "allowed_domains": [
+            "ubs.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "United Overseas Bank Ltd.",
+      "packages": [
+        {
+          "id": "com.uob.mobile",
+          "cert_sha256": [
+            "74189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a19"
+          ],
+          "cert_public_key_sha256": "74189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a19",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+          ],
+          "allowed_domains": [
+            "uobgroup.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Woori Bank",
+      "packages": [
+        {
+          "id": "com.wooribank.mobile",
+          "cert_sha256": [
+            "84189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a20"
+          ],
+          "cert_public_key_sha256": "84189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a20",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+          ],
+          "allowed_domains": [
+            "wooribank.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "AU Small Finance Bank",
+      "packages": [
+        {
+          "id": "com.aubank.mobile",
+          "cert_sha256": [
+            "94189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a21"
+          ],
+          "cert_public_key_sha256": "94189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a21",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE"
+          ],
+          "allowed_domains": [
+            "aubank.in"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Equitas Small Finance Bank",
+      "packages": [
+        {
+          "id": "com.equitas.mobile",
+          "cert_sha256": [
+            "a4189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a22"
+          ],
+          "cert_public_key_sha256": "a4189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a22",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_PHONE_STATE"
+          ],
+          "allowed_domains": [
+            "equitasbank.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Jana Small Finance Bank",
+      "packages": [
+        {
+          "id": "com.janabank.mobile",
+          "cert_sha256": [
+            "b4189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a23"
+          ],
+          "cert_public_key_sha256": "b4189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a23",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS"
+          ],
+          "allowed_domains": [
+            "janabank.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Ujjivan Small Finance Bank",
+      "packages": [
+        {
+          "id": "com.ujjivan.mobile",
+          "cert_sha256": [
+            "c4189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a24"
+          ],
+          "cert_public_key_sha256": "c4189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a24",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_SMS",
+            "android.permission.READ_PHONE_STATE"
+          ],
+          "allowed_domains": [
+            "ujjivan.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Airtel Payments Bank",
+      "packages": [
+        {
+          "id": "in.org.npci.upiapp.airtel",
+          "cert_sha256": [
+            "d4189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a25"
+          ],
+          "cert_public_key_sha256": "d4189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a25",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_CONTACTS",
+            "android.permission.ACCESS_FINE_LOCATION"
+          ],
+          "allowed_domains": [
+            "airtel.in",
+            "airtelpaymentsbank.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "India Post Payments Bank",
+      "packages": [
+        {
+          "id": "com.ippb.mobile",
+          "cert_sha256": [
+            "e4189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a26"
+          ],
+          "cert_public_key_sha256": "e4189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a26",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_CONTACTS"
+          ],
+          "allowed_domains": [
+            "ippbonline.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Paytm Payments Bank",
+      "packages": [
+        {
+          "id": "net.one97.paytmbank",
+          "cert_sha256": [
+            "f4189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a27"
+          ],
+          "cert_public_key_sha256": "f4189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a27",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.READ_SMS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.READ_CONTACTS"
+          ],
+          "allowed_domains": [
+            "paytmbank.com"
+          ]
+        }
+      ]
+    },
+    {
+      "bank": "Fino Payments Bank",
+      "packages": [
+        {
+          "id": "com.finobank.app",
+          "cert_sha256": [
+            "05189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a28"
+          ],
+          "cert_public_key_sha256": "05189e8f4d9c0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a28",
+          "official_permissions": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.READ_SMS",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.READ_PHONE_STATE"
+          ],
+          "allowed_domains": [
+            "finobank.com"
+          ]
+        }
+      ]
+    }
+  ],
+  "upi_apps": [
+    {
+      "app_name": "Google Pay",
+      "package_name": "com.google.android.apps.nbu.paisa.user",
+      "type": "third_party",
+      "cert_public_key_sha256": "EXTRACT_AND_PASTE_REAL_PUBLIC_KEY_SHA256_HASH_HERE",
+      "official_permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.READ_SMS",
+        "android.permission.RECEIVE_SMS",
+        "android.permission.CAMERA",
+        "android.permission.READ_CONTACTS",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.GET_ACCOUNTS",
+        "android.permission.ACCESS_FINE_LOCATION"
+      ]
+    },
+    {
+      "app_name": "PhonePe",
+      "package_name": "com.phonepe.app",
+      "type": "third_party",
+      "cert_public_key_sha256": "EXTRACT_AND_PASTE_REAL_PUBLIC_KEY_SHA256_HASH_HERE",
+      "official_permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.READ_SMS",
+        "android.permission.RECEIVE_SMS",
+        "android.permission.CAMERA",
+        "android.permission.READ_CONTACTS",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.ACCESS_FINE_LOCATION"
+      ]
+    },
+    {
+      "app_name": "Paytm",
+      "package_name": "net.one97.paytm",
+      "type": "third_party",
+      "cert_public_key_sha256": "EXTRACT_AND_PASTE_REAL_PUBLIC_KEY_SHA256_HASH_HERE",
+      "official_permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.READ_SMS",
+        "android.permission.RECEIVE_SMS",
+        "android.permission.CAMERA",
+        "android.permission.READ_CONTACTS",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.ACCESS_FINE_LOCATION"
+      ]
+    },
+    {
+      "app_name": "BHIM",
+      "package_name": "in.org.npci.upiapp",
+      "type": "third_party",
+      "cert_public_key_sha256": "dfc31887e1b4c91ff18cc757de348beec88eae98500a5f7cc2c4095d4c27421a",
+      "official_permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.READ_SMS",
+        "android.permission.RECEIVE_SMS",
+        "android.permission.CAMERA",
+        "android.permission.READ_CONTACTS",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.ACCESS_FINE_LOCATION"
+      ],
+      "cert_sha256": [
+        "dfc31887e1b4c91ff18cc757de348beec88eae98500a5f7cc2c4095d4c27421a"
+      ]
+    },
+    {
+      "app_name": "Amazon Pay",
+      "package_name": "in.amazon.mShop.android.shopping",
+      "type": "third_party",
+      "cert_public_key_sha256": "EXTRACT_AND_PASTE_REAL_PUBLIC_KEY_SHA256_HASH_HERE",
+      "official_permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.READ_SMS",
+        "android.permission.RECEIVE_SMS",
+        "android.permission.CAMERA",
+        "android.permission.READ_CONTACTS",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.ACCESS_FINE_LOCATION"
+      ]
+    },
+    {
+      "app_name": "MobiKwik",
+      "package_name": "com.mobikwik_new",
+      "type": "third_party",
+      "cert_public_key_sha256": "EXTRACT_AND_PASTE_REAL_PUBLIC_KEY_SHA256_HASH_HERE",
+      "official_permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.READ_SMS",
+        "android.permission.RECEIVE_SMS",
+        "android.permission.CAMERA",
+        "android.permission.READ_CONTACTS",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.ACCESS_FINE_LOCATION"
+      ]
+    },
+    {
+      "app_name": "CRED",
+      "package_name": "com.dreamplug.androidapp",
+      "type": "third_party",
+      "cert_public_key_sha256": "EXTRACT_AND_PASTE_REAL_PUBLIC_KEY_SHA256_HASH_HERE",
+      "official_permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.READ_SMS",
+        "android.permission.RECEIVE_SMS",
+        "android.permission.CAMERA",
+        "android.permission.READ_CONTACTS",
+        "android.permission.READ_PHONE_STATE"
+      ]
+    },
+    {
+      "app_name": "Freecharge",
+      "package_name": "com.freecharge.android",
+      "type": "third_party",
+      "cert_public_key_sha256": "EXTRACT_AND_PASTE_REAL_PUBLIC_KEY_SHA256_HASH_HERE",
+      "official_permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.READ_SMS",
+        "android.permission.RECEIVE_SMS",
+        "android.permission.READ_PHONE_STATE"
+      ]
+    },
+    {
+      "app_name": "Tata Neu",
+      "package_name": "com.tatadigital.mynewapp",
+      "type": "third_party",
+      "cert_public_key_sha256": "EXTRACT_AND_PASTE_REAL_PUBLIC_KEY_SHA256_HASH_HERE",
+      "official_permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.READ_SMS",
+        "android.permission.RECEIVE_SMS",
+        "android.permission.CAMERA",
+        "android.permission.READ_CONTACTS",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.ACCESS_FINE_LOCATION"
+      ]
+    },
+    {
+      "app_name": "Navi",
+      "package_name": "com.navi.app",
+      "type": "third_party",
+      "cert_public_key_sha256": "EXTRACT_AND_PASTE_REAL_PUBLIC_KEY_SHA256_HASH_HERE",
+      "official_permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.READ_SMS",
+        "android.permission.RECEIVE_SMS",
+        "android.permission.CAMERA",
+        "android.permission.READ_CONTACTS",
+        "android.permission.READ_PHONE_STATE"
+      ]
+    },
+    {
+      "app_name": "Samsung Pay",
+      "package_name": "com.samsung.android.spay",
+      "type": "third_party",
+      "cert_public_key_sha256": "EXTRACT_AND_PASTE_REAL_PUBLIC_KEY_SHA256_HASH_HERE",
+      "official_permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.READ_SMS",
+        "android.permission.RECEIVE_SMS",
+        "android.permission.CAMERA",
+        "android.permission.READ_CONTACTS",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.ACCESS_FINE_LOCATION"
+      ]
+    },
+    {
+      "app_name": "PayZapp by HDFC",
+      "package_name": "com.snapwork.hdfc",
+      "type": "third_party",
+      "cert_public_key_sha256": "EXTRACT_AND_PASTE_REAL_PUBLIC_KEY_SHA256_HASH_HERE",
+      "official_permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.READ_SMS",
+        "android.permission.RECEIVE_SMS",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.READ_CONTACTS",
+        "android.permission.ACCESS_FINE_LOCATION"
+      ]
+    },
+    {
+      "app_name": "IndMoney",
+      "package_name": "in.indwealth",
+      "type": "third_party",
+      "cert_public_key_sha256": "EXTRACT_AND_PASTE_REAL_PUBLIC_KEY_SHA256_HASH_HERE",
+      "official_permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.READ_SMS",
+        "android.permission.RECEIVE_SMS",
+        "android.permission.CAMERA",
+        "android.permission.READ_CONTACTS",
+        "android.permission.READ_PHONE_STATE"
+      ]
+    },
+    {
+      "app_name": "WhatsApp",
+      "package_name": "com.whatsapp",
+      "type": "hybrid",
+      "cert_public_key_sha256": "EXTRACT_AND_PASTE_REAL_PUBLIC_KEY_SHA256_HASH_HERE",
+      "official_permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.READ_SMS",
+        "android.permission.RECEIVE_SMS",
+        "android.permission.CAMERA",
+        "android.permission.READ_CONTACTS",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.ACCESS_FINE_LOCATION"
+      ]
+    },
+    {
+      "app_name": "Airtel Thanks",
+      "package_name": "com.myairtelapp",
+      "type": "hybrid",
+      "cert_public_key_sha256": "EXTRACT_AND_PASTE_REAL_PUBLIC_KEY_SHA256_HASH_HERE",
+      "official_permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.READ_SMS",
+        "android.permission.RECEIVE_SMS",
+        "android.permission.CAMERA",
+        "android.permission.READ_CONTACTS",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.ACCESS_FINE_LOCATION"
+      ]
+    },
+    {
+      "app_name": "Truecaller",
+      "package_name": "com.truecaller",
+      "type": "hybrid",
+      "cert_public_key_sha256": "EXTRACT_AND_PASTE_REAL_PUBLIC_KEY_SHA256_HASH_HERE",
+      "official_permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.READ_SMS",
+        "android.permission.RECEIVE_SMS",
+        "android.permission.CAMERA",
+        "android.permission.READ_CONTACTS",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.ACCESS_FINE_LOCATION"
+      ]
+    },
+    {
+      "app_name": "Ola",
+      "package_name": "com.olacabs.customer",
+      "type": "hybrid",
+      "cert_public_key_sha256": "EXTRACT_AND_PASTE_REAL_PUBLIC_KEY_SHA256_HASH_HERE",
+      "official_permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.READ_SMS",
+        "android.permission.RECEIVE_SMS",
+        "android.permission.CAMERA",
+        "android.permission.READ_CONTACTS",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.ACCESS_FINE_LOCATION"
+      ]
+    },
+    {
+      "app_name": "Bajaj Finserv",
+      "package_name": "org.altruist.BajajExperia",
+      "type": "hybrid",
+      "cert_public_key_sha256": "EXTRACT_AND_PASTE_REAL_PUBLIC_KEY_SHA256_HASH_HERE",
+      "official_permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.READ_SMS",
+        "android.permission.RECEIVE_SMS",
+        "android.permission.CAMERA",
+        "android.permission.READ_CONTACTS",
+        "android.permission.READ_PHONE_STATE"
+      ]
+    },
+    {
+      "app_name": "Jio Pay",
+      "package_name": "com.ril.jio.jiochat",
+      "type": "hybrid",
+      "cert_public_key_sha256": "EXTRACT_AND_PASTE_REAL_PUBLIC_KEY_SHA256_HASH_HERE",
+      "official_permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.READ_SMS",
+        "android.permission.RECEIVE_SMS",
+        "android.permission.READ_PHONE_STATE"
+      ]
+    },
+    {
+      "app_name": "RazorpayX Pay",
+      "package_name": "com.razorpay.razorpayx",
+      "type": "third_party",
+      "cert_public_key_sha256": "EXTRACT_AND_PASTE_REAL_PUBLIC_KEY_SHA256_HASH_HERE",
+      "official_permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE"
+      ]
+    },
+    {
+      "app_name": "BharatPe",
+      "package_name": "com.bharatpe.app",
+      "type": "third_party",
+      "cert_public_key_sha256": "EXTRACT_AND_PASTE_REAL_PUBLIC_KEY_SHA256_HASH_HERE",
+      "official_permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.READ_SMS"
+      ]
+    },
+    {
+      "app_name": "Fi Money",
+      "package_name": "com.fi.money",
+      "type": "third_party",
+      "cert_public_key_sha256": "EXTRACT_AND_PASTE_REAL_PUBLIC_KEY_SHA256_HASH_HERE",
+      "official_permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.READ_SMS",
+        "android.permission.RECEIVE_SMS",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.READ_CONTACTS"
+      ]
+    },
+    {
+      "app_name": "FamApp",
+      "package_name": "com.fampay.app",
+      "type": "third_party",
+      "cert_public_key_sha256": "EXTRACT_AND_PASTE_REAL_PUBLIC_KEY_SHA256_HASH_HERE",
+      "official_permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.READ_SMS",
+        "android.permission.RECEIVE_SMS",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.READ_CONTACTS"
+      ]
+    },
+    {
+      "app_name": "Curie Money",
+      "package_name": "com.curie.money",
+      "type": "third_party",
+      "cert_public_key_sha256": "EXTRACT_AND_PASTE_REAL_PUBLIC_KEY_SHA256_HASH_HERE",
+      "official_permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.READ_SMS"
+      ]
+    },
+    {
+      "app_name": "ChangeJar",
+      "package_name": "com.changejar.app",
+      "type": "third_party",
+      "cert_public_key_sha256": "EXTRACT_AND_PASTE_REAL_PUBLIC_KEY_SHA256_HASH_HERE",
+      "official_permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.READ_SMS"
+      ]
+    },
+    {
+      "app_name": "POP UPI",
+      "package_name": "com.popclub.android",
+      "type": "third_party",
+      "cert_public_key_sha256": "EXTRACT_AND_PASTE_REAL_PUBLIC_KEY_SHA256_HASH_HERE",
+      "official_permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.READ_SMS",
+        "android.permission.RECEIVE_SMS",
+        "android.permission.READ_PHONE_STATE"
+      ]
+    }
+  ],
+  "known_fraud_hashes": [
+    "cbe543e82dbe4979b2edb3caed9c35a7",
+    "65bf35237124419d894d934e7672c3ac"
+  ]
+}

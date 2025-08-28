@@ -1,0 +1,67 @@
+{
+    "apk_path": "/tmp/tmpj69pde5_/bob-mconnect.apk",
+    "package_name": "cm.aptoide.pt",
+    "app_label": "Aptoide",
+    "file_hash": "188bbdb899be2da401ac0471ba4d10693612fa1067f2ea0987cc6e1afcfd4374",
+    "classification": "Fraud",
+    "reasons": [
+        "Layer 1: FAILED. Package name is not in the trusted database.",
+        "Layer 5: WARNING. Unexpected dangerous permissions: android.permission.WRITE_EXTERNAL_STORAGE, android.permission.CAMERA"
+    ],
+    "layer_results": {
+        "Layer 1 (Package Name)": {
+            "status": "Failed",
+            "verdict": "Package name is not in the trusted database."
+        },
+        "Layer 2 (Developer Signature)": {
+            "status": "Skipped",
+            "verdict": "Developer signature check not applicable for this app type."
+        },
+        "Layer 3 (VirusTotal Malware Detection)": {
+            "status": "Passed",
+            "verdict": "VirusTotal scan clean: File is clean - scanned by 65 antivirus engines",
+            "details": {
+                "virustotal": {
+                    "status": "Passed",
+                    "verdict": "File is clean - scanned by 65 antivirus engines",
+                    "details": {
+                        "positives": 0,
+                        "total": 65,
+                        "scan_date": "2025-08-28 13:43:25",
+                        "permalink": "https://www.virustotal.com/gui/file/188bbdb899be2da401ac0471ba4d10693612fa1067f2ea0987cc6e1afcfd4374/detection/f-188bbdb899be2da401ac0471ba4d10693612fa1067f2ea0987cc6e1afcfd4374-1756388605",
+                        "detection_ratio": "0/65"
+                    }
+                }
+            }
+        },
+        "Layer 4 (Known Fraud)": {
+            "status": "Passed",
+            "verdict": "Hash does not match any known fraudulent apps."
+        },
+        "Layer 5 (Enhanced Heuristics)": {
+            "status": "Warning",
+            "verdict": "Unexpected dangerous permissions: android.permission.WRITE_EXTERNAL_STORAGE, android.permission.CAMERA",
+            "details": {
+                "permissions": {
+                    "dangerous_anomalies": [
+                        "android.permission.WRITE_EXTERNAL_STORAGE",
+                        "android.permission.CAMERA"
+                    ]
+                },
+                "static_analysis": {
+                    "status": "Passed",
+                    "verdict": "Static analysis passed - no major issues found",
+                    "details": {
+                        "risk_score": 0,
+                        "issues": []
+                    }
+                },
+                "domain_check": {
+                    "status": "Passed",
+                    "verdict": "Package name appears legitimate",
+                    "details": {}
+                }
+            }
+        }
+    }
+}
