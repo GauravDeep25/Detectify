@@ -52,16 +52,16 @@ Detectify analyzes an APK through a sequence of critical and non-critical securi
 
 
 /Final Prototype/
-├── app.py                  # Flask backend server
-├── check.py                # Core analysis logic with Androguard
-├── trusted_apps.json       # Database of trusted apps
-├── known_fraud.json        # Database of known fraudulent APK hashes
-├── requirements.txt        # Python package requirements
-├── templates/
-│   └── index.html          # Main HTML file for the UI
-└── static/
-├── style.css           # CSS for styling the UI
-└── script.js           # JavaScript for the frontend
+- app.py                  # Flask backend server
+- check.py                # Core analysis logic with Androguard
+- trusted_apps.json       # Database of trusted apps
+- known_fraud.json        # Database of known fraudulent APK hashes
+- requirements.txt        # Python package requirements
+- templates -->
+    - index.html          # Main HTML file for the UI
+    - static -->
+    - style.css           # CSS for styling the UI
+    - script.js           # JavaScript for the frontend
 
 
 ---
@@ -77,27 +77,33 @@ Detectify analyzes an APK through a sequence of critical and non-critical securi
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/detectify.git](https://github.com/your-username/detectify.git)
+    git clone https://github.com/GauravDeep25/Detectify
     cd detectify
     ```
 
 2.  **Create and activate a virtual environment:**
+    For Linux 
     ```bash
     python3 -m venv venv
     source venv/bin/activate
     ```
+    For Windows Powershell
+    ```powershell
+    python3 -m venv venv
+    venv\Scripts\Activate.ps1
+    ```
 
-3.  **Install the required Python packages:**
+4.  **Install the required Python packages:**
     ```bash
     pip install -r requirements.txt
     ```
     *(This will install Flask, Flask-CORS, and Androguard)*
 
-4.  **Run the backend server:**
+5.  **Run the backend server:**
     ```bash
     python app.py
     ```
     The server will start on `http://127.0.0.1:5000`.
 
-5.  **Open the application:**
+6.  **Open the application:**
     Open your web browser and navigate to `http://127.0.0.1:5000`. You can now upload an APK file for analysis.
